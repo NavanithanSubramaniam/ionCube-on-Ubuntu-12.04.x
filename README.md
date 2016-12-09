@@ -1,4 +1,4 @@
-# ionCube-on-Ubuntu-12.04.x
+# ionCube on Ubuntu 12.04.x
 
 download and extract the IonCube Loader PHP modules
 ```
